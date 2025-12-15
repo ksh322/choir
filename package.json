@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "pages:build": "npx exec next-on-pages",
+    "pages:build": "next-on-pages",
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start"
