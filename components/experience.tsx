@@ -2,7 +2,7 @@ import { Music2, Piano, Users } from "lucide-react"
 
 const choirMembers = {
   conductor: { name: "김민정", baptismalName: "아가다" },
-  leader: { name: "양영직", baptismalName: "베드로" },
+  leader: { name: "양영직", baptismalName: "베드로" ,  name2: "문영민", Name2: "아델리나"},
   piano: { name: "구예은", baptismalName: "모니카" },
   soprano: [
     { name: "한유정", baptismalName: "미카엘라" },
@@ -50,6 +50,10 @@ export function Experience() {
             <span className="text-muted-foreground">:</span>
             <span>
               {choirMembers.leader.name} {choirMembers.leader.baptismalName}
+            </span>
+            <span className="font-medium">부단장</span>
+            <span>
+              {choirMembers.leader.name2} {choirMembers.leader.Name2}
             </span>
           </div>
 
