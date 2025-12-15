@@ -1,2 +1,3 @@
 # choir
-by vercel v0.app
+heukseok choir
+trigger redeploy
