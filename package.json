@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
+    "pages:build": "next-on-pages",
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start"
