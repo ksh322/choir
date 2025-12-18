@@ -46,11 +46,11 @@ export function Contact() {
                 <span>agadalein@naver.com</span>
               </a>
               <a
-                href="tel:+821084484255"
+                href="tel:+0506-645-3256"
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
               >
                 <Phone className="h-5 w-5" />
-                <span>010-8448-4255</span>
+                <span>0506-645-3256</span>
               </a>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="h-5 w-5" />
