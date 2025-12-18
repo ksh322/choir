@@ -7,9 +7,9 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Kim Minjun - Portfolio',
-  description: 'Full Stack Developer Portfolio - 高品質なWebアプリケーションを構築',
-  generator: 'v0.app',
+  title: 'Heukseok-dong choir',
+  description: 'KimMinJung',
+  generator: 'KimSangho',
   icons: {
     icon: [
       {
