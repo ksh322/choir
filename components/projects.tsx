@@ -14,7 +14,7 @@ const projects = [
     date: "2024년 3월",
   },
   {
-    title: "성탄 캐롤 콘서트",
+    title: "성탄 캐롤",
     description: "전통 성탄 캐롤부터 현대 편곡까지 다양한 레퍼토리로 구성했습니다.",
     image: "/christmas-carol-concert-choir.jpg",
     tags: ["성탄 음악", "캐롤", "지역 행사"],

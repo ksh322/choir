@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Heukseok-dong choir',
+  title: '흑석동성가대',
   description: 'KimMinJung',
   generator: 'KimSangho',
   icons: {

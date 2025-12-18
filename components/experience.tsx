@@ -22,7 +22,7 @@ const choirMembers = {
     { name: "곽도윤", baptismalName: "마티아" },
     { name: "권혁", baptismalName: "안토니오" },
     { name: "조구원", baptismalName: "요셉" },
-    { name: "김상호", baptismalName: "요셉", note: "참관" },
+    
   ],
 }
 
