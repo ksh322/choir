@@ -53,8 +53,10 @@ export function Contact() {
                 <span>0506-645-3256</span>
               </a>
               <div className="flex items-center gap-3 text-muted-foreground">
-                <MapPin className="h-5 w-5" />
+                <MapPin className="h-5 w-5" /><a href="https://bstsd.or.kr/map">
                 <span>흑석동 성당 성가대</span>
+                </a>
+                
               </div>
             </div>
           </div>
