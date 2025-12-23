@@ -20,8 +20,11 @@ export function About() {
           </p>
         </div>
 
-        <img src="/public/choir_banner.jpg"   alt="Choir banner"
-></img>
+        <img
+   src="/choir_banner.jpg"
+  alt="Choir banner"
+  className="mt-10 w-full rounded-lg object-cover"
+/>
 
       </div>
     </section>
