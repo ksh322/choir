@@ -1,4 +1,5 @@
 import { Music2, Piano, Users } from "lucide-react"
+import Image from "next/image";
 
 const choirMembers = {
   conductor: { name: "김민정", baptismalName: "아가다" },
@@ -28,12 +29,20 @@ const choirMembers = {
 
 export function Experience() {
   return (
+    
     <section id="members" className="flex justify-center px-4 sm:px-6 lg:px-8 py-12">
+      
       <div className="max-w-4xl mx-auto w-full">
         <h2 className="text-sm uppercase tracking-wider text-muted-foreground mb-8 border-l-2 border-primary pl-4">
           성가대 정보
         </h2>
-
+        <Image
+  src="/choir_banner.jpg"
+  alt="Choir banner"
+  width={1200}
+  height={600}  
+  className="rounded-xl object-cover w-full"
+/>
         <div className="space-y-8 mb-12">
           <div className="flex items-center gap-3 pb-3 border-b border-border">
             <Music2 className="h-5 w-5 text-primary" />

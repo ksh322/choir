@@ -24,7 +24,7 @@ const projects = [
   {
     title: "순교자의 삶",
     description:
-      "성가대의 연간 성과를 공유하는 정기 발표회를 기획하고 진행했습니다. 전례 음악뿐만 아니라 세속 합창곡도 포함하여 다채로운 무대를 선보였습니다.",
+      "",
     image: "/martyr.JPG",
     tags: ["합창", "발표회", "음악회"],
     icon: Calendar,

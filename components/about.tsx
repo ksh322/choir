@@ -23,13 +23,7 @@ export function About() {
           </p>
         </div>
 
-        <Image
-  src="/choir_banner.jpg"
-  alt="Choir banner"
-  width={1200}
-  height={600}  
-  className="rounded-xl object-cover w-full"
-/>
+        
 
       </div>
     </section>
