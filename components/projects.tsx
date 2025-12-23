@@ -5,13 +5,13 @@ import Image from "next/image"
 
 const projects = [
   {
-    title: "부활 대축일 미사",
+    title: "아무것도 너를",
     description:
-      "모차르트 대관식 미사를 오케스트라와 함께 연주하여 부활의 기쁨을 장엄하게 표현했습니다. 3개월간의 준비 기간을 거쳐 완성도 높은 공연을 선보였습니다.",
-    image: "/church-choir-easter-performance.jpg",
-    tags: ["전례 음악", "오케스트라 협연", "모차르트"],
+      "",
+    image: "/nothing.jpg",
+    tags: ["전례 음악", "오케스트라 협연"],
     icon: Award,
-    date: "2024년 3월",
+    date: "2025. 7. 28.",
   },
   {
     title: "성탄 캐롤",
@@ -22,13 +22,13 @@ const projects = [
     date: "2023년 12월",
   },
   {
-    title: "정기 합창 발표회",
+    title: "순교자의 삶",
     description:
       "성가대의 연간 성과를 공유하는 정기 발표회를 기획하고 진행했습니다. 전례 음악뿐만 아니라 세속 합창곡도 포함하여 다채로운 무대를 선보였습니다.",
-    image: "/choir-concert-hall-performance.jpg",
+    image: "/martyr.JPG",
     tags: ["합창", "발표회", "음악회"],
     icon: Calendar,
-    date: "2023년 6월",
+    date: "2025년 9월",
   },
 ]
 
