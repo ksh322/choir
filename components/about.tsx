@@ -20,8 +20,9 @@ export function About() {
           </p>
         </div>
 
-        <img src="choir_banner.jpg"></img>
-        
+        <img src="/public/choir_banner.jpg"   alt="Choir banner"
+></img>
+
       </div>
     </section>
   )
