@@ -19,6 +19,9 @@ export function About() {
             있습니다.
           </p>
         </div>
+
+        <img src="choir_banner.jpg"></img>
+        
       </div>
     </section>
   )
