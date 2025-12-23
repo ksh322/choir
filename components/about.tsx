@@ -1,3 +1,6 @@
+import Image from "next/image";
+
+
 export function About() {
   return (
     <section id="about" className="min-h-screen flex items-center justify-center px-4 sm:px-6 lg:px-8 py-20">
@@ -20,10 +23,12 @@ export function About() {
           </p>
         </div>
 
-        <img
-   src="/choir_banner.jpg"
+        <Image
+  src="/choir_banner.jpg"
   alt="Choir banner"
-  className="mt-10 w-full rounded-lg object-cover"
+  width={1200}
+  height={600}  
+  className="rounded-xl object-cover w-full"
 />
 
       </div>
