@@ -32,7 +32,7 @@ export function Hero() {
           </div>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-balance">
-            김민정
+            흑석동 성당 성가대
             <span className="block text-muted-foreground text-3xl sm:text-4xl lg:text-5xl mt-2">Kim Minjung</span>
           </h1>
 
